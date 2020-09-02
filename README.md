@@ -2,4 +2,6 @@
 Practice of Reinforcement Learning
 
 
-maze
+maze: a simple game for practice of Reinforecement Learning
+
+
