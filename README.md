@@ -1,2 +1,2 @@
-# ReinforcementLearning
-Applications of (Deep) Reinforcement Learning
+# Reinforcement Learning
+Practice of Reinforcement Learning
