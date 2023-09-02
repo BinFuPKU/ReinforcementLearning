@@ -1,4 +1,4 @@
-# Reinforcement Learning
+# Reinforcement Learning (ongoing)
 Practice & Apllication of Reinforcement Learning
 
 
